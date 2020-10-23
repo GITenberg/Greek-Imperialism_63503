@@ -1,11 +1,16 @@
 _repo: Greek-Imperialism_63503
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63503-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferguson, William Scott
     gutenberg_agent_id: '52482'
     url: http://www.gutenberg.org/2009/agents/52482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63503#Greek-Imperialism
 gutenberg_issued: '2020-10-19'
 gutenberg_type: Text
 identifiers:
